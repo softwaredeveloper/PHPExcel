@@ -5,6 +5,8 @@ Master: [![Build Status](https://travis-ci.org/PHPOffice/PHPExcel.png?branch=mas
 
 Develop: [![Build Status](https://travis-ci.org/PHPOffice/PHPExcel.png?branch=develop)](http://travis-ci.org/PHPOffice/PHPExcel)
 
+[Freelance php developer](https://www.phpfreelanceprogrammer.com)
+
 ## File Formats supported
 
 ### Reading
